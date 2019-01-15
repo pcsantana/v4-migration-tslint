@@ -29,7 +29,7 @@ We are looking for contributors to help build these rules out! See [`CONTRIBUTIN
         "ion-back-button-not-added-by-default": { "options": [true], "severity": "warning" },
         "ion-button-attributes-renamed": true,
         "ion-button-is-now-an-element": true,
-        "ion-buttons-attributes-renamed": true
+        "ion-buttons-attributes-renamed": true,
         "ion-col-attributes-renamed": true,
         "ion-datetime-capitalization-changed": true,
         "ion-fab-attributes-renamed": true,
@@ -57,7 +57,7 @@ We are looking for contributors to help build these rules out! See [`CONTRIBUTIN
         "ion-segment-button-ion-label-required": true,
         "ion-spinner-attribute-values-renamed": true,
         "ion-tab-attributes-renamed": true,
-        "ion-text-is-now-an-element": true,
+        "ion-text-is-now-an-element": true
       }
     }
     ```
