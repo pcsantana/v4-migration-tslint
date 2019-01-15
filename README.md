@@ -26,37 +26,38 @@ We are looking for contributors to help build these rules out! See [`CONTRIBUTIN
       "rules": {
         "ion-action-sheet-method-create-parameters-renamed": true,
         "ion-alert-method-create-parameters-renamed": true,
-        "ion-datetime-capitalization-changed": true,
-        "ion-item-option-method-get-sliding-percent-renamed": true,
-        "ion-overlay-method-create-should-use-await": true,
-        "ion-overlay-method-present-should-use-await": true,
         "ion-back-button-not-added-by-default": { "options": [true], "severity": "warning" },
         "ion-button-attributes-renamed": true,
         "ion-button-is-now-an-element": true,
-        "ion-fab-button-is-now-an-element": true,
-        "ion-fab-attributes-renamed": true,
-        "ion-fab-fixed-content": true,
+        "ion-buttons-attributes-renamed": true
         "ion-col-attributes-renamed": true,
+        "ion-datetime-capitalization-changed": true,
+        "ion-fab-attributes-renamed": true,
+        "ion-fab-button-is-now-an-element": true,
+        "ion-fab-fixed-content": true,
         "ion-icon-attribute-is-active-removed": true,
-        "ion-item-is-now-an-element": true,
-        "ion-item-ion-label-required": true,
         "ion-item-attributes-renamed": true,
         "ion-item-divider-ion-label-required": true,
-        "ion-item-options-attribute-values-renamed": true,
+        "ion-item-ion-label-required": true,
+        "ion-item-is-now-an-element": true,
         "ion-item-option-is-now-an-element": true,
+        "ion-item-option-method-get-sliding-percent-renamed": true,
+        "ion-item-options-attribute-values-renamed": true,
         "ion-label-attributes-renamed": true,
         "ion-list-header-ion-label-required": true,
         "ion-menu-toggle-is-now-an-element": true,
         "ion-navbar-is-now-ion-toolbar": true,
         "ion-option-is-now-ion-select-option": true,
+        "ion-overlay-method-create-should-use-await": true,
+        "ion-overlay-method-present-should-use-await": true,
         "ion-radio-attributes-renamed": true,
-        "ion-radio-slot-required": true,
         "ion-radio-group-is-now-an-element": true,
+        "ion-radio-slot-required": true,
         "ion-range-attributes-renamed": true,
+        "ion-segment-button-ion-label-required": true,
         "ion-spinner-attribute-values-renamed": true,
         "ion-tab-attributes-renamed": true,
         "ion-text-is-now-an-element": true,
-        "ion-buttons-attributes-renamed": true
       }
     }
     ```
@@ -457,6 +458,19 @@ We are looking for contributors to help build these rules out! See [`CONTRIBUTIN
     <td>:white_check_mark:</td>
     <td>
       <code>ion-range-attributes-renamed</code>
+    </td>
+    <td>
+      <a href="https://github.com/dwieeb">@dwieeb</a>
+    </td>
+  </tr>
+  <tr>
+    <th>
+      <a href="https://github.com/ionic-team/ionic/blob/master/angular/BREAKING.md#segment-button">Segment Button</a>
+    </th>
+    <td>:wrench:</td>
+    <td>:white_check_mark:</td>
+    <td>
+      <code>ion-segment-button-ion-label-required</code>
     </td>
     <td>
       <a href="https://github.com/dwieeb">@dwieeb</a>
