@@ -33,7 +33,6 @@ We are looking for contributors to help build these rules out! See [`CONTRIBUTIN
         "ion-back-button-not-added-by-default": { "options": [true], "severity": "warning" },
         "ion-button-attributes-renamed": true,
         "ion-button-is-now-an-element": true,
-        "ion-chip-markup-has-changed": true,
         "ion-fab-button-is-now-an-element": true,
         "ion-fab-attributes-renamed": true,
         "ion-fab-fixed-content": true,
@@ -217,19 +216,6 @@ We are looking for contributors to help build these rules out! See [`CONTRIBUTIN
     <td>
       <a href="https://github.com/cwoolum">@cwoolum</a>,
       <a href="https://github.com/j3gb3rt">@j3gb3rt</a>
-    </td>
-  </tr>
-  <tr>
-    <th>
-      <a href="https://github.com/ionic-team/ionic/blob/master/angular/BREAKING.md#chip">Chip</a>
-    </th>
-    <td></td>
-    <td>:white_check_mark:</td>
-    <td>
-      <code>ion-chip-markup-has-changed</code>
-    </td>
-    <td>
-      <a href="https://github.com/cwoolum">@cwoolum</a>
     </td>
   </tr>
   <tr>
