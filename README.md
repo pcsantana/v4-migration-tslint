@@ -46,6 +46,7 @@ We are looking for contributors to help build these rules out! See [`CONTRIBUTIN
         "ion-label-attributes-renamed": true,
         "ion-list-header-ion-label-required": true,
         "ion-loading-method-create-parameters-renamed": true,
+        "ion-menu-events-renamed": true,
         "ion-menu-toggle-is-now-an-element": true,
         "ion-navbar-is-now-ion-toolbar": true,
         "ion-option-is-now-ion-select-option": true,
@@ -59,6 +60,7 @@ We are looking for contributors to help build these rules out! See [`CONTRIBUTIN
         "ion-spinner-attribute-values-renamed": true,
         "ion-tab-attributes-renamed": true,
         "ion-text-is-now-an-element": true
+
       }
     }
     ```
@@ -392,6 +394,21 @@ We are looking for contributors to help build these rules out! See [`CONTRIBUTIN
       <a href="https://github.com/dwieeb">@dwieeb</a>
     </td>
   </tr>
+
+  <tr>
+    <th>
+      <a href="https://github.com/ionic-team/ionic/blob/master/angular/BREAKING.md#menu">Menu</a>
+    </th>
+    <td>:wrench:</td>
+    <td>:white_check_mark:</td>
+    <td>
+      <code>ion-menu-events-renamed</code>
+    </td>
+    <td>
+      <a href="https://github.com/mhartington">@mhartington</a>
+    </td>
+  </tr>
+
   <tr>
     <th>
       <a href="https://github.com/ionic-team/ionic/blob/master/angular/BREAKING.md#menu-toggle">Menu Toggle</a>
