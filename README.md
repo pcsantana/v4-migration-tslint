@@ -58,7 +58,6 @@ We are looking for contributors to help build these rules out! See [`CONTRIBUTIN
         "ion-range-attributes-renamed": true,
         "ion-segment-button-ion-label-required": true,
         "ion-spinner-attribute-values-renamed": true,
-        "ion-tab-attributes-renamed": true,
         "ion-text-is-now-an-element": true
 
       }
@@ -529,18 +528,6 @@ We are looking for contributors to help build these rules out! See [`CONTRIBUTIN
     </td>
     <td>
       <a href="https://github.com/dwieeb">@dwieeb</a>
-    </td>
-  </tr>
-  <tr>
-    <th>
-      <a href="https://github.com/ionic-team/ionic/blob/master/angular/BREAKING.md#tabs">Tabs</a>
-    </th>
-    <td>:wrench:</td>
-    <td>:white_check_mark:</td>
-    <td>
-      <code>ion-tab-attributes-renamed</code></td>
-    <td>
-      <a href="https://github.com/cwoolum">@cwoolum</a>
     </td>
   </tr>
   <tr>
