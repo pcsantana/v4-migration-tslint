@@ -1,3 +1,21 @@
+# [1.7.0](https://github.com/ionic-team/v4-migration-tslint/compare/v1.6.0...v1.7.0) (2019-01-16)
+
+
+### Bug Fixes
+
+* **rules:** add support for shorthand object literal properties ([#85](https://github.com/ionic-team/v4-migration-tslint/issues/85)) ([1389f98](https://github.com/ionic-team/v4-migration-tslint/commit/1389f98))
+* **rules:** ion-chip markup has not changed ([9a91877](https://github.com/ionic-team/v4-migration-tslint/commit/9a91877))
+* **rules:** remove invalid tabs rule ([2fb32c2](https://github.com/ionic-team/v4-migration-tslint/commit/2fb32c2))
+
+
+### Features
+
+* **rules:** add ion-loading-method-create-parameters-renamed rule ([e66fc7a](https://github.com/ionic-team/v4-migration-tslint/commit/e66fc7a))
+* **rules:** add ion-menu-events-renamed rule ([#91](https://github.com/ionic-team/v4-migration-tslint/issues/91)) ([0057bfd](https://github.com/ionic-team/v4-migration-tslint/commit/0057bfd))
+* **rules:** add ion-tabs-refactored rule ([#93](https://github.com/ionic-team/v4-migration-tslint/issues/93)) ([0185437](https://github.com/ionic-team/v4-migration-tslint/commit/0185437))
+* **rules:** ion-segment-button requires ion-label around text ([35b4345](https://github.com/ionic-team/v4-migration-tslint/commit/35b4345))
+* **rules:** support ion-col[col-auto] migration ([a0b79d0](https://github.com/ionic-team/v4-migration-tslint/commit/a0b79d0))
+
 # [1.6.0](https://github.com/ionic-team/v4-migration-tslint/compare/v1.5.1...v1.6.0) (2018-10-09)
 
 
