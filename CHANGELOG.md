@@ -1,3 +1,10 @@
+## [1.7.1](https://github.com/ionic-team/v4-migration-tslint/compare/v1.7.0...v1.7.1) (2019-04-07)
+
+
+### Bug Fixes
+
+* **ion-button:** Add a `shape="round"` attribute rule to ion-button ([#101](https://github.com/ionic-team/v4-migration-tslint/issues/101)) ([dbb851d](https://github.com/ionic-team/v4-migration-tslint/commit/dbb851d))
+
 # [1.7.0](https://github.com/ionic-team/v4-migration-tslint/compare/v1.6.0...v1.7.0) (2019-01-16)
 
 
